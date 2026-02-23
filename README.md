@@ -1,4 +1,3 @@
-:::writing{variant=standard id=72951}
 
 Chatbot con Python, Tkinter y Docker
 
